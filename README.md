@@ -7,7 +7,7 @@
      <font size="+100"><span style="color:red">선</span><span style="color:blue">행</span><span style="color:black">toon</span></font>
      <br><br><br>
      <hr>
-   <font size="+2"><span style="color:black"><a href="kimminjun.html">김민준 최후의 대결:모든것의 끝</a></span></font>
+   <font size="+2"><span style="color:black"><a href="kimminjunfinal.html">김민준 최후의 대결:모든것의 끝</a></span></font>
    <br>
     <font size="-3"><span style="color:gray">김민준</span></font>
      <hr>
@@ -19,13 +19,29 @@
       <br>
        <font size="-3"><span style="color:gray">권선06</span></font>
        <hr>
-       <font size="+2"><span style="color:black"><a href="sanghyub.html">그 남자</a></span></font>
+       <font size="+2"><span style="color:black"><a href="sanghyubthatman.html">그 남자</a></span></font>
        <br>
         <font size="-3"><span style="color:gray">daniel</span></font>
         <hr>
-        <font size="+2"><span style="color:black"><a href="kimyeah.html">ㅇㅅㅎ?ㄱㅁㅅ</a></span></font>
+        <font size="+2"><span style="color:black"><a href="kimstrange.html">이상한 학교</a></span></font>
         <br>
-         <font size="-3"><span style="color:gray">700</span></font>
+         <font size="-3"><span style="color:gray">김작가</span></font>
+         <hr>
+    <font size="+2"><span style="color:black"><a href="firstlove.html">첫사랑</a></span></font>
+        <br>
+         <font size="-3"><span style="color:gray">김민서작가</span></font>
+         <hr>
+      <font size="+2"><span style="color:black"><a href="schools.html">초딩들</a></span></font>
+        <br>
+         <font size="-3"><span style="color:gray">OOOO작가</span></font>
+         <hr>
+        <font size="+2"><span style="color:black"><a href="zerodie.html">007빵</a></span></font>
+        <br>
+         <font size="-3"><span style="color:gray">양 작가</span></font>
+         <hr>
+          <font size="+2"><span style="color:black"><a href="ohfant.html">5!추리</a></span></font>
+        <br>
+         <font size="-3"><span style="color:gray">ㄱㅇㅇ작가</span></font>
          <hr>
   <br><br>
     <p>
