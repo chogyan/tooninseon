@@ -22,7 +22,7 @@
         <hr>
         <font size="+2"><span style="color:black"><a href="kimstrange.html">이상한 학교</a></span></font>
         <br>
-         <font size="-3"><span style="color:gray">김작가</span></font>
+         <font size="-3"><span style="color:gray">시바견 작가</span></font>
          <hr>
     <font size="+2"><span style="color:black"><a href="firstlove.html">첫사랑</a></span></font>
         <br>
