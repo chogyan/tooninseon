@@ -15,10 +15,7 @@
      <br>
       <font size="-3"><span style="color:gray">권선06</span></font>
       <hr>
-      <font size="+2"><span style="color:black"><a href="seohyuniromance.html">내가 로맨스다</a></span></font>
-      <br>
-       <font size="-3"><span style="color:gray">권선06</span></font>
-       <hr>
+
        <font size="+2"><span style="color:black"><a href="sanghyubthatman.html">그 남자</a></span></font>
        <br>
         <font size="-3"><span style="color:gray">daniel</span></font>
